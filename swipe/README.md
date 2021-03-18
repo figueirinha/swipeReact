@@ -4,7 +4,7 @@ Example of a application that has the basics of Tinder but for text.
 
 ## Scripts
 
-To run this project, inside the swipe folder, run (with node js) in a terminal:
+To run this project, inside the swipe folder, run (with node js in vs code) in a terminal:
 
 ### `npm install`
 
